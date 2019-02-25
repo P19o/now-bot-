@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "now-examples",
+  "name": "p",
   "builds": [
  { "src": "nodejs/*.js", "use": "@now/node" }
     ]
