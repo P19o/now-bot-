@@ -4,3 +4,4 @@
   "builds": [
  { "src": "nodejs/*.js", "use": "@now/node" }
     ]
+}
