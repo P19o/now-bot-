@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "p",
+  "name": "pcy3",
   "builds": [
  { "src": "nodejs/*.js", "use": "@now/node" }
     ]
