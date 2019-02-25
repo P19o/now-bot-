@@ -1,0 +1,17 @@
+{
+"name": "tbothaha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase": "^5.0.4",
+    "node-telegram-bot-api": "^0.30.0",
+    "open-graph-scraper": "^3.3.0"
+  },
+  "engines": {
+    "node": "10.3.0"
+  }
+}
